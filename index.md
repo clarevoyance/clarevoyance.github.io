@@ -1,6 +1,5 @@
 # Clarence Lam
 
-## My Story
 Back in 2014, I saw the need to pivot my career upon learning about Generative Adversarial Networks. This took me on a wild journey as I transited first by working in the areas of search engine optimization, and eventually landed a role as a technical editor for a Polish IT startup. These two roles allowed me to build my understanding in the software development lifecycle, agile methodologies, as well as digital marketing. 
 
 I eventually transited into the role of a digital consultant in 2018 where my projects were focused on the development of digital transformation programs. Some of these digital transformation programs eventually evolved from data collection and measurement programs into analytic processes where I first started applying classical machine learning techniques with low-code solutions. These were applications in market research for customer segmentation as well as churn prediction from web analytics behavior.
@@ -68,9 +67,9 @@ Remaining Coursework:
 
 |Certification|Provider|Date|
 |---|---|---|
-|Microsoft Certified: Azure Data Fundamentals|Microsoft|[June 2021](https://www.credly.com/badges/58bdc8fb-b726-4212-bab5-e3c24fd47842)|
-|Microsoft Certified: Azure Data Scientist Associate|Microsoft|[May 2021](https://www.credly.com/badges/60bc16c6-4738-4797-8e39-a8351e757076)|
-|Microsoft Certified: Azure AI Fundamentals|Microsoft|[April 2021](https://www.credly.com/badges/18f4b9a8-2ff6-4487-990b-305810ffaa10)|
+|Azure Data Fundamentals|Microsoft|[June 2021](https://www.credly.com/badges/58bdc8fb-b726-4212-bab5-e3c24fd47842)|
+|Azure Data Scientist Associate|Microsoft|[May 2021](https://www.credly.com/badges/60bc16c6-4738-4797-8e39-a8351e757076)|
+|Azure AI Fundamentals|Microsoft|[April 2021](https://www.credly.com/badges/18f4b9a8-2ff6-4487-990b-305810ffaa10)|
 |Lean Six Sigma Yellow Belt|Technical University of Munich|[July 2020](https://drive.google.com/file/d/1P9GkBGK9fxXdbAHSLSTd_kjYWr2dMoeM/view)|
 
 
