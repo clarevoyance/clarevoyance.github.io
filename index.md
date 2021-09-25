@@ -39,6 +39,7 @@ Remaining Coursework:
 |MGT8823|Data Analytics for Continuous Improvement|Minitab|
 |MGT8813|Financial Modeling|Excel|
 
+ 
 ### Quantic School of Business and Technology: Master of Business Administration (2018)
 
 |Course Name|
@@ -60,10 +61,17 @@ Remaining Coursework:
 |Operations Management: Fundamentals, Supply Chain Management, Forecasting|
 |Strategy: Business-Level, Corporate-Level, and International|
 
-
+ 
 ### Nanyang Technological University: Bachelor of Fine Arts in Photography and Digital Imaging (2018)
 
 ## Certifications
+|Certification|Provider|Date|
+|---|---|---|
+|Microsoft Certified: Azure Data Fundamentals|Microsoft|[June 2021](https://www.credly.com/badges/58bdc8fb-b726-4212-bab5-e3c24fd47842)|
+|Microsoft Certified: Azure Data Scientist Associate|Microsoft|[May 2021](https://www.credly.com/badges/60bc16c6-4738-4797-8e39-a8351e757076)|
+|Microsoft Certified: Azure AI Fundamentals|Microsoft|[April 2021](https://www.credly.com/badges/18f4b9a8-2ff6-4487-990b-305810ffaa10)|
+|Lean Six Sigma Yellow Belt|Technical University of Munich|July 2020](https://drive.google.com/file/d/1P9GkBGK9fxXdbAHSLSTd_kjYWr2dMoeM/view)|
+
 
 
 
