@@ -65,6 +65,7 @@ Remaining Coursework:
 ### Nanyang Technological University: Bachelor of Fine Arts in Photography and Digital Imaging (2018)
 
 ## Certifications
+
 |Certification|Provider|Date|
 |---|---|---|
 |Microsoft Certified: Azure Data Fundamentals|Microsoft|[June 2021](https://www.credly.com/badges/58bdc8fb-b726-4212-bab5-e3c24fd47842)|
