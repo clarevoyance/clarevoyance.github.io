@@ -1,10 +1,7 @@
 # Clarence Lam
 
-
-
-
 ## My Story
-Lorem Ipsum
+Back in 2014, I saw the need to pivot my career upon learning about Generative Adversarial Networks. This took me on a wild journey as I transited first by working in the areas of search engine optimization, and eventually landed a role as a technical editor for a Polish IT startup. These two roles allowed me to build my understanding in the software development lifecycle, agile methodologies, as well as digital marketing. I eventually transited into the role of a digital consultant in 2018 where my projects were focused on the development of digital transformation programs. 
 
 ## Projects available for view:
 
@@ -17,7 +14,8 @@ Lorem Ipsum
 
 ### Georgia Institute of Technology: Master of Science in Analytics (expected 2022)
 
-Completed Coursework (As of September 2021)
+Completed Coursework (As of September 2021):
+
 |Course Number|Course Name|Tech Stack|
 |---|---|---|
 |ISYE6501|Introduction to Analytics Modeling|R, Python, Arena|
@@ -25,6 +23,7 @@ Completed Coursework (As of September 2021)
 |MGT6203|Data Analytics in Business|R|
 
 Remaining Coursework:
+
 |Course Number|Course Name|Tech Stack|
 |---|---|---|
 |CSE6250|Big Data Analytics for Healthcare|Python, Hadoop Hive, Hadoop Pig, Scala, Spark|
@@ -59,6 +58,8 @@ Remaining Coursework:
 
 
 ### Nanyang Technological University: Bachelor of Fine Arts in Photography and Digital Imaging (2018)
+
+## Certifications
 
 
 
