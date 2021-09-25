@@ -1,7 +1,9 @@
 # Clarence Lam
 
 ## My Story
-Back in 2014, I saw the need to pivot my career upon learning about Generative Adversarial Networks. This took me on a wild journey as I transited first by working in the areas of search engine optimization, and eventually landed a role as a technical editor for a Polish IT startup. These two roles allowed me to build my understanding in the software development lifecycle, agile methodologies, as well as digital marketing. I eventually transited into the role of a digital consultant in 2018 where my projects were focused on the development of digital transformation programs. 
+Back in 2014, I saw the need to pivot my career upon learning about Generative Adversarial Networks. This took me on a wild journey as I transited first by working in the areas of search engine optimization, and eventually landed a role as a technical editor for a Polish IT startup. These two roles allowed me to build my understanding in the software development lifecycle, agile methodologies, as well as digital marketing. 
+
+I eventually transited into the role of a digital consultant in 2018 where my projects were focused on the development of digital transformation programs. Some of these digital transformation programs eventually evolved from data collection and measurement programs into analytic processes where I first started applying classical machine learning techniques with low-code solutions. These were applications in market research for customer segmentation as well as churn prediction from web analytics behavior.
 
 I am currently a Masters candidate at the Georgia Institute of Technology and will begin my new role as an artificial intelligence engineer at the end of 2021. 
 
